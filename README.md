@@ -1,3 +1,5 @@
+![thumbnail-Desafio Java](https://github.com/jacqueline-oliveira/3257-java-desafio/assets/66698429/7d1ab66a-2a1c-48e8-825e-2b233c2c1aaa)
+
 # Tabela Fipe
 
 Este projeto faz parte do meu aprendizado de Java, no curso da Alura: Java: trabalhando com lambdas, streams e Spring Framework 
